@@ -1,5 +1,10 @@
 fileFormatVersion: 2
+<<<<<<<< HEAD:EcoSplash/Assets/_Assets/Industrial_Level_Assets/HorrorPuzzleItems.meta
+guid: a044156779d90444a94281dd78869f93
+folderAsset: yes
+========
 guid: a7a62f23dd4fce64d9243bea5787fdde
+>>>>>>>> main:EcoSplash/Assets/Scenes/DroughtSceneFull.unity.meta
 DefaultImporter:
   externalObjects: {}
   userData: 

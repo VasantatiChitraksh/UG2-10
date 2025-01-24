@@ -23,8 +23,8 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/FishingMiniGame.unity
     guid: dbae2b0153255da4c80cfb6cb73e0b84
-  - enabled: 1
-    path: Assets/Scenes/IndustrialLevelEnd.unity
+  - enabled: 0
+    path: Assets/Scenes/IndustrialLevelEndb.unity
     guid: 64b2e92480409694ba48b6305c0699b7
   - enabled: 1
     path: Assets/Scenes/HomeMenu.unity
@@ -52,7 +52,10 @@ EditorBuildSettings:
     guid: a75f53f9518e7224d88cf48ed6fd38a2
   - enabled: 1
     path: Assets/Scenes/DroughtSceneFull.unity
-    guid: a7a62f23dd4fce64d9243bea5787fdde
+    guid: a044156779d90444a94281dd78869f93
+  - enabled: 1
+    path: Assets/Scenes/IndustrialLevelEnd.unity
+    guid: e0a18b9effa3e71409e85947955b1376
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
   m_UseUCBPForAssetBundles: 0

@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<<< HEAD:EcoSplash/Assets/_Assets/Industrial_Level_Assets/Industrial_Machine_Models.meta
+guid: b8841a35ef730b9418cbb3b68921c93b
+========
 guid: 13b75e78b49f80d489d3ed6de1758b0f
+>>>>>>>> main:EcoSplash/Assets/_Assets/Textures.meta
 folderAsset: yes
 DefaultImporter:
   externalObjects: {}
